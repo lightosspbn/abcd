@@ -1,7 +1,8 @@
 package org.links.java;
 
 public class java2 {
-
+    
+	
 	/**
 	 * @param args
 	 */
